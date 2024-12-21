@@ -1,1 +1,6 @@
 streamlit
+google-cloud-aiplatform
+google-generativeai
+scikit-learn
+joblib
+pandas
